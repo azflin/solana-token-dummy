@@ -1,0 +1,11 @@
+{
+  "name": "SwagLord",
+  "symbol": "SL",
+  "description": "Small swag of your token.",
+  "image": "https://i.imgur.com/FkGHEQ3.jpeg",
+  "extensions": {
+    "website": "https://www.reddit.com/",
+    "twitter": "https://x.com/not_qz",
+    "telegram": "https://t.me/+oysVa4fia0s2YmI1"
+  }
+}
