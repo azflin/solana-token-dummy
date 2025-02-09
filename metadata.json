@@ -1,11 +1,11 @@
 {
-  "name": "SwagBoss",
-  "symbol": "SL",
-  "description": "Small swag of your token.",
-  "image": "https://i.imgur.com/FkGHEQ3.jpeg",
+  "name": "BubbleDAO",
+  "symbol": "BBL",
+  "description": "AI + gated alpha opportunities DAO on daos.world",
+  "image": "https://pbs.twimg.com/media/GjSDMyob0AAyyfC?format=png&name=small",
   "extensions": {
-    "website": "https://www.reddit.com/",
-    "twitter": "https://x.com/not_qz",
-    "telegram": "https://t.me/+oysVa4fia0s2YmI1"
+    "website": "https://x.com/bubbledaosol",
+    "twitter": "https://x.com/bubbledaosol",
+    "telegram": "https://t.me/bubbledaoportal"
   }
 }
