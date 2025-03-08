@@ -1,11 +1,11 @@
 {
-  "name": "AnyDAO",
-  "symbol": "Any",
-  "description": "anything is possibru",
-  "image": "https://pbs.twimg.com/media/GjSDMyob0AAyyfC?format=png&name=small",
+  "name": "MonarkDAO",
+  "symbol": "MONARK",
+  "description": "A decentralized investment fund focused on Monad.",
+  "image": "https://pbs.twimg.com/profile_images/1892193223684034560/zlJfLf5F_400x400.jpg",
   "extensions": {
-    "website": "https://x.com/AnyDAO",
-    "twitter": "https://x.com/AnyDAO",
-    "telegram": "https://t.me/AnyDAO"
+    "website": "https://www.monarkdao.com/",
+    "twitter": "https://x.com/MonarkDao",
+    "telegram": "https://discord.com/invite/wjpqqQzVAt"
   }
 }
