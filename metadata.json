@@ -1,11 +1,11 @@
 {
-  "name": "MonarkDAO",
-  "symbol": "MONARK",
-  "description": "A decentralized investment fund focused on Monad.",
-  "image": "https://pbs.twimg.com/profile_images/1892193223684034560/zlJfLf5F_400x400.jpg",
+  "name": "AtlasDAO",
+  "symbol": "Atlas",
+  "description": "A.I Trading Investment DAO",
+  "image": "https://pbs.twimg.com/profile_images/1900580427204575232/BtQmOENX_400x400.jpg",
   "extensions": {
-    "website": "https://www.monarkdao.com/",
-    "twitter": "https://x.com/MonarkDao",
-    "telegram": "https://discord.com/invite/wjpqqQzVAt"
+    "website": "https://x.com/AtlasAIDAO",
+    "twitter": "https://x.com/AtlasAIDAO",
+    "telegram": "https://t.me/AtlasAIDAO"
   }
 }
