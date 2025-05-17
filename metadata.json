@@ -1,11 +1,11 @@
 {
-  "name": "AtlasDAO",
-  "symbol": "Atlas",
-  "description": "A.I Trading Investment DAO",
-  "image": "https://pbs.twimg.com/profile_images/1900580427204575232/BtQmOENX_400x400.jpg",
+  "name": "TRIAL",
+  "symbol": "TRIAL",
+  "description": "Mira DAO Trial",
+  "image": "https://pbs.twimg.com/profile_images/1905738260066029568/bA60QJLZ_400x400.jpg",
   "extensions": {
-    "website": "https://x.com/AtlasAIDAO",
-    "twitter": "https://x.com/AtlasAIDAO",
-    "telegram": "https://t.me/AtlasAIDAO"
+    "website": "https://miradaos.ai",
+    "twitter": "https://x.com/miradaos",
+    "telegram": "https://discord.gg/miradaos"
   }
 }
