@@ -1,11 +1,11 @@
 {
-  "name": "TRIAL",
-  "symbol": "TRIAL",
-  "description": "Mira DAO Trial",
-  "image": "https://pbs.twimg.com/profile_images/1905738260066029568/bA60QJLZ_400x400.jpg",
+  "name": "Latina Language Model",
+  "symbol": "LLM",
+  "description": "Latina Language Model",
+  "image": "https://pbs.twimg.com/media/GzJaJAAa0AAbyDV?format=jpg&name=900x900",
   "extensions": {
-    "website": "https://miradaos.ai",
-    "twitter": "https://x.com/miradaos",
-    "telegram": "https://discord.gg/miradaos"
+    "website": "https://x.com/i/communities/1959234473813315825",
+    "twitter": "https://x.com/i/communities/1959234473813315825",
+    "telegram": "https://x.com/i/communities/1959234473813315825"
   }
 }
